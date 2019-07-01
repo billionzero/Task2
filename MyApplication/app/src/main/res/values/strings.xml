@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework_new</string>
+
+    <string name="chat_room_title">我和%1$s的对话</string>
+    <string name="critic">评论</string>
+    <string name="atme">\@我的</string>
+    <string name="good">赞</string>
+    <string name="fan">粉丝</string>
+</resources>
